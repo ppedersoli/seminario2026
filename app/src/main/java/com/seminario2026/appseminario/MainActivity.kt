@@ -194,3 +194,4 @@ fun MaestroScreenPreview() {
         MaestroScreen(onNavegarAlDetalle = { _, _ -> })
     }
 }
+
